@@ -1,0 +1,3 @@
+qArr = []
+
+module.exports = { qArr }

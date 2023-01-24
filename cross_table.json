@@ -1,0 +1,15 @@
+{
+    "open": 1,
+    "close": 1,
+    "temp": 2,
+    "status": 1,
+    "vol_level": 3,
+    "vol_set": 3,
+    "vol_mute_on": 7,
+    "vol_mute_off": 7,
+    "serial_number": 4,
+    "bright": 5,
+    "contrast": 6,
+    "lock_off": 8,
+    "lock_on": 8
+}

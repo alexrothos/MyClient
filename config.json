@@ -1,0 +1,14 @@
+{
+    "ip1": "172.27.89.118",
+    "ip2": "172.27.89.108",
+    "port": 61623,
+    "command_topic": "/topic/commands",
+    "notifications_topic": "/topic/notifications",
+    "mp": {
+        "player_id": "SUM-N-1",
+        "fixed_ip":"172.25.38.102",
+        "hall": "North",
+        "location": "Summary",
+        "timer": 10000
+    }
+}

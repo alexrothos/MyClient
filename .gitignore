@@ -1,0 +1,13 @@
+.vscode/
+node_modules/
+records_of_mp.log
+media_players_errors.log
+
+// For testing
+tc2.js
+tc3.js
+res_checker.js
+server108.bat
+
+// For versioning
+v2/

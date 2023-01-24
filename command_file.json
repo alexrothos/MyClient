@@ -1,0 +1,17 @@
+{
+    "open":"ka 01 01\r\n",
+    "close":"ka 01 00\r\n",
+    "temp":"dn 01 ff\r\n",
+    "status":"ka 01 ff\r\n",
+    "vol_level":"kf 01 ff\r\n",
+    "vol_set": "kf 01 ",
+    "vol_mute_on": "ke 01 01\r\n",
+    "vol_mute_off": "ke 01 00\r\n",
+    "power_saving":"fl 01 ff\r\n",
+    "serial_number":"fy 01 ff\r\n",
+    "bright": "kh 01 ",
+    "contrast": "kg 01 ",
+    "input": "kb 01 00\r\n",
+    "lock_off": "km 01 00\r\n",
+    "lock_on": "km 01 01\r\n"
+}

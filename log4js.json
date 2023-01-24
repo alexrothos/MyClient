@@ -1,0 +1,21 @@
+{
+    "appenders": {
+        "media_players_errors": {
+            "type": "file",
+            "filename": "media_players_errors.log",
+            "out": { "type": "stdout", "layout": { "type": "coloured" } },
+            "backups": 30,
+            "compress": true
+        },
+        "records_of_mp": {
+            "type": "file",
+            "filename": "records_of_mp.log",
+            "backups": 30,
+            "compress": true
+        }
+    },
+    "categories": {
+        "default": { "appenders": ["media_players_errors"], "level": "debug" },
+        "record": { "appenders": ["records_of_mp"], "level": "debug" }
+    }
+}

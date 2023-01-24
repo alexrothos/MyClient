@@ -1,0 +1,39 @@
+{
+    "a 01 OK01": [1, 1],
+    "a 01 OK00": [0, 1],
+    "u 01 OK01": [1, 1],
+    "u 01 OK00": [0, 1],
+    "n 01 OK": [
+        {
+            "a": "Temperature is ",
+            "b": "°C"
+        },
+        2
+    ],
+    "f 01 OK": [
+        {
+            "a": "Volume set to ",
+            "b": "%"
+        },
+        3
+    ],
+    "e 01 OK01": [false, 7],
+    "e 01 OK00": [true, 7],
+    "y 01 OK": ["Serial number is ", 4],
+    "h 01 OK": [
+        {
+            "a": "Brightness set to ",
+            "b": "%"
+        },
+        5
+    ],
+    "g 01 OK": [
+        {
+            "a": "Contrast set to ",
+            "b": "%"
+        },
+        6
+    ],
+    "m 01 OK00": [0,8],
+    "m 01 OK01": [1,8]
+}
